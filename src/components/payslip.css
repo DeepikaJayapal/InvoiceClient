@@ -1,0 +1,55 @@
+.inputs {
+  text-align: center !important;
+}
+
+.trs {
+  /* line-height: 25px; */
+  min-height: 20px;
+  /* height: 25px; */
+}
+
+.ths {
+  width: 22% !important;
+}
+
+.tds {
+  width: 18% !important;
+  text-align: center !important;
+}
+
+.PaySlipDetails {
+  width: 10% ;
+}
+
+.payslip {
+  width: 10% ;
+}
+
+.spacing {
+  min-height: 100vh !important;
+  min-width: 100vw !important;
+  padding: 1.5%;
+  margin: 1.5%;
+}
+
+.logo {
+  height: 135px;
+  padding-left: 10%;
+}
+
+.vls {
+  border-left: 2px solid #f9a817;
+  height: 128px;
+  margin-right: 15px;
+  margin-left: -29px;
+}
+.tables{
+  width: 96%;
+  margin-right: 0% !important;
+}
+.footer {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}

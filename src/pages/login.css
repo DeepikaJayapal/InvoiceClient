@@ -1,0 +1,29 @@
+.cardss{
+    min-height: 34vh !important;
+    background: linear-gradient(-20deg, rgb(204, 204, 204) 50%, #f66700 50%) !important;
+    color: rgb(21, 17, 17) !important;
+    margin-top: 5%;
+    padding-top: 4%;
+    padding-left: 4%;
+    width: 56%;
+    margin-left: 21%;
+    margin-top: 5%;
+    padding-bottom: 4%;
+}
+
+.inputss {
+    width: 60% !important;
+    margin-left: 20%;
+    margin-bottom: 3%;
+}
+
+.buttonss {
+    margin-left: 42%;
+    margin-bottom: 3%;
+    width: 18%;
+}
+.innercards{
+    width: 92%;
+    background-color: white;
+    padding: 3%;
+}
